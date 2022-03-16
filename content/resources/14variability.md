@@ -1,0 +1,14 @@
+---
+content_type: resource
+description: Variability
+file: /media/courses/15-057-systems-optimization-spring-2003/7b186c5e5bf674ec13a01a4d21d0da66_14variability.pdf
+file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+resourcetype: Document
+title: 14variability.pdf
+uid: 7b186c5e-5bf6-74ec-13a0-1a4d21d0da66
+---

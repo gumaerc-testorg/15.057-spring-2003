@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Mid Term Exam
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-057-systems-optimization-spring-2003/aad523ed90c5b3e350e5efd31c5fc5d9_midterm2002practice.pdf
+file: /media/courses/15-057-systems-optimization-spring-2003/aad523ed90c5b3e350e5efd31c5fc5d9_midterm2002practice.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: midterm2002practice.pdf
 uid: aad523ed-90c5-b3e3-50e5-efd31c5fc5d9

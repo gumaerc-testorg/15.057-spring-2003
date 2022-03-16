@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Autopower Transportation Model
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-057-systems-optimization-spring-2003/5efc266dec09dea41edfa963551f1fd3_02transportation_model.xls
+file: /media/courses/15-057-systems-optimization-spring-2003/5efc266dec09dea41edfa963551f1fd3_02transportation_model.xls
 file_type: application/msword
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: 02transportation_model.xls
 uid: 5efc266d-ec09-dea4-1edf-a963551f1fd3

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Document
 title: peachstatecasestudy.pdf
 uid: aa8dc878-d2db-4657-5529-6f45d8b307f6

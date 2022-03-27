@@ -60,11 +60,11 @@ Network Models: Shortest Path & Transshipment ([PDF]({{< baseurl >}}/resources/0
 
 Associated files:
 
-*   03Ampl\_output ([TXT](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/03ampl_output.txt))
+*   03Ampl\_output ([TXT]({{< baseurl >}}/resources/03ampl_output))
 *   03Shortest\_path\_model ([XLS]({{< baseurl >}}/resources/03shortest_path_model))
 *   03Singapore\_elec\_generator\_model ([XLS]({{< baseurl >}}/resources/03singapore_elec_generator_mod))
 *   03Transportation\_data ([MDB]({{< baseurl >}}/resources/03transportation_data))
-*   03Transportation\_model ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/03transportation_model.mod))
+*   03Transportation\_model ([MOD]({{< baseurl >}}/resources/03transportation_model))
 *   03Transshipment\_model ([XLS]({{< baseurl >}}/resources/03transshipment_model))
 
 
@@ -82,12 +82,12 @@ Introduction to LP ([PDF]({{< baseurl >}}/resources/04lpintroprint))
 
 Associated files:
 
-*   04Eastern\_steel ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/04eastern_steel.mod))
-*   04Eastern\_steel ([XLS]({{< baseurl >}}/resources/04eastern_steel))
+*   04Eastern\_steel ([MOD]({{< baseurl >}}/resources/04eastern_steel))
+*   04Eastern\_steel ([XLS]({{< baseurl >}}/resources/04eastern_steel-1))
 *   04Investment\_example ([XLS]({{< baseurl >}}/resources/04investment_example))
 *   04Oak\_products\_lp ([XLS]({{< baseurl >}}/resources/04oak_products_lp))
 *   04Portfolio\_data ([MDB]({{< baseurl >}}/resources/04portfolio-1))
-*   04Portfolio\_model ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/04portfolio.mod))
+*   04Portfolio\_model ([MOD]({{< baseurl >}}/resources/04portfolio-2))
 *   04Portfolio ([XLS]({{< baseurl >}}/resources/04portfolio))
 
 
@@ -142,7 +142,7 @@ Associated files:
 
 *   07Media\_selection ([XLS]({{< baseurl >}}/resources/07media_selection))
 *   07Portfolio\_solution ([XLS]({{< baseurl >}}/resources/07portfolio_soln))
-*   07Shift\_staffing\_model ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/07shift_staffing.mod))
+*   07Shift\_staffing\_model ([MOD]({{< baseurl >}}/resources/07shift_staffing))
 *   07Staff\_scheduling\_data ([MDB]({{< baseurl >}}/resources/07staff_scheduling))
 *   07Workforce\_scheduling ([XLS]({{< baseurl >}}/resources/07workforce_scheduling))
 
@@ -161,8 +161,8 @@ Integer Programming ([PDF - 1 MB]({{< baseurl >}}/resources/08integerprogramming
 
 Associated files:
 
-*   08Steco\_model ([MOD](/courses/sloan-school-of-management/15-057-systems-optimization-spring-2003/lecture-notes/08steco.mod))
-*   08Steco ([XLS]({{< baseurl >}}/resources/08steco))
+*   08Steco\_model ([MOD]({{< baseurl >}}/resources/08steco))
+*   08Steco ([XLS]({{< baseurl >}}/resources/08steco-1))
 *   08Steco\_data ([MDB]({{< baseurl >}}/resources/08steco_data))
 *   08Steel\_cable ([XLS]({{< baseurl >}}/resources/08steel_cable))
 *   08Westernair ([XLS]({{< baseurl >}}/resources/08westernair))

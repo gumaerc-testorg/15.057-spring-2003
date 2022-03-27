@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Other
 title: 07staff_scheduling.mdb
 uid: f0525692-9aa4-5b5b-8aaa-05266ebd66f2

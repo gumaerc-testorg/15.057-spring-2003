@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c395471b-2707-dcbb-5013-64a7fff79710
 resourcetype: Document
 title: midterm2003andkey.pdf
 uid: 3b6522c7-c61f-112d-1bce-5cdfda1dd124

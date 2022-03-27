@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Document
 title: 09integerprogramming2print.pdf
 uid: b41ce030-7662-7cc8-5e31-be024a3b7831

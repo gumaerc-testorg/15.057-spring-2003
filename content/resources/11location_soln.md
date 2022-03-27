@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Other
 title: 11location_soln.xls
 uid: a9177c2e-5a7f-6b54-05a1-9868655c4974

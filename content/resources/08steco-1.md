@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Simplified Oak Products Model
-file: /media/courses/15-057-systems-optimization-spring-2003/8b56c48b40515acd2738498aa3c5dd4c_04oak_products_lp.xls
+description: Steco's Warehouse Location Model
+file: /media/courses/15-057-systems-optimization-spring-2003/d1abef62e5d321fbc5e037d0b180095f_08steco.xls
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
@@ -10,6 +10,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Other
-title: 04oak_products_lp.xls
-uid: 8b56c48b-4051-5acd-2738-498aa3c5dd4c
+title: 08steco.xls
+uid: d1abef62-e5d3-21fb-c5e0-37d0b180095f
 ---

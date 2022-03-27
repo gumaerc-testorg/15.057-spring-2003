@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Document
 title: 03networks2print.pdf
 uid: de80d8dc-9a6f-540e-8c21-0921b559f02d

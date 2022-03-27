@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Other
 title: 03singapore_elec_generator_mod.xls
 uid: 080e1d2d-e883-3e9c-177b-482c5d88f2bf

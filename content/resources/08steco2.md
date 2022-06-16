@@ -1,8 +1,8 @@
 ---
 content_type: resource
-description: Fund Ratings
-file: /courses/15-057-systems-optimization-spring-2003/9920986c0abf1ec44e307434bb75c8a1_04portfolio.xls
-file_type: application/msword
+description: An AMPL Model of the Steco Warehouse case
+file: /courses/15-057-systems-optimization-spring-2003/9b55ec918b7385293d0f226c0a78601d_08steco.mod
+file_type: text/plain
 learning_resource_types:
 - Lecture Notes
 ocw_type: OCWFile
@@ -10,12 +10,12 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Other
-title: 04portfolio.xls
-uid: 9920986c-0abf-1ec4-4e30-7434bb75c8a1
+title: 08steco.mod
+uid: 9b55ec91-8b73-8529-3d0f-226c0a78601d
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
-Fund Ratings
+An AMPL Model of the Steco Warehouse case
 

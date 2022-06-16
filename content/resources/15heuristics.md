@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-057-systems-optimization-spring-2003/52f5c751a872fd71c393fb1378315099_15heuristics.pdf
+file: /courses/15-057-systems-optimization-spring-2003/52f5c751a872fd71c393fb1378315099_15heuristics.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,8 @@ parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Document
 title: 15heuristics.pdf
 uid: 52f5c751-a872-fd71-c393-fb1378315099
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

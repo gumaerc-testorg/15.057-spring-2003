@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Parametric Model
-file: /media/courses/15-057-systems-optimization-spring-2003/50ba2b56b72d04327fdb3321443d60a1_05retail_parametrics.xls
+file: /courses/15-057-systems-optimization-spring-2003/50ba2b56b72d04327fdb3321443d60a1_05retail_parametrics.xls
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,10 @@ parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Other
 title: 05retail_parametrics.xls
 uid: 50ba2b56-b72d-0432-7fdb-3321443d60a1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Parametric Model
+

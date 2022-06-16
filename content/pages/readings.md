@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: e920ab11-c1db-c839-4add-8761e524e740
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These texts are useful references both for the course material and the modeling tools we will rely on:

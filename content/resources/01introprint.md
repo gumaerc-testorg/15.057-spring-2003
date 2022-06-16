@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Intro to Systems Optimization
-file: /media/courses/15-057-systems-optimization-spring-2003/c78eceb42734e5a3268e4b2309986ee1_01introprint.pdf
+file: /courses/15-057-systems-optimization-spring-2003/c78eceb42734e5a3268e4b2309986ee1_01introprint.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,10 @@ parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Document
 title: 01introprint.pdf
 uid: c78eceb4-2734-e5a3-268e-4b2309986ee1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Intro to Systems Optimization
+

@@ -5,6 +5,7 @@ file: /courses/15-057-systems-optimization-spring-2003/091306a5e609701007e3a78c7
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Investment Example
-

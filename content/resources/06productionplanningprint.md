@@ -5,6 +5,7 @@ file: /courses/15-057-systems-optimization-spring-2003/7a3c7f0afc208f3d449b511c3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Production Planning
-

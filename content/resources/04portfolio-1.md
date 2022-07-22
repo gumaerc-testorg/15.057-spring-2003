@@ -5,6 +5,7 @@ file: /courses/15-057-systems-optimization-spring-2003/1a110e8ede4814124f6b1c146
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

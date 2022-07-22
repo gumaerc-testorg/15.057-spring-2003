@@ -6,6 +6,7 @@ file: /courses/15-057-systems-optimization-spring-2003/a54dd44993572051c53952ae6
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 AMPL Model of the Eastern Steel Example on Page 105 and following of Moore et al.
-

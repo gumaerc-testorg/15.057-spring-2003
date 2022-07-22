@@ -5,6 +5,7 @@ file: /courses/15-057-systems-optimization-spring-2003/c78eceb42734e5a3268e4b230
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Intro to Systems Optimization
-

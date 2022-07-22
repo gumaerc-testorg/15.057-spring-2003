@@ -5,6 +5,7 @@ file: /courses/15-057-systems-optimization-spring-2003/3b6522c7c61f112d1bce5cdfd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Mid Term Exam
-

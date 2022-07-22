@@ -5,6 +5,7 @@ file: /courses/15-057-systems-optimization-spring-2003/8b56c48b40515acd2738498aa
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Simplified Oak Products Model
-

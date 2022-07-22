@@ -5,6 +5,7 @@ file: /courses/15-057-systems-optimization-spring-2003/bafb6dbc04e902809f58f828b
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

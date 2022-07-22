@@ -5,6 +5,7 @@ file: /courses/15-057-systems-optimization-spring-2003/9b55ec918b7385293d0f226c0
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 An AMPL Model of the Steco Warehouse case
-

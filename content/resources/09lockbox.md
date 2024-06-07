@@ -2,6 +2,7 @@
 content_type: resource
 description: The Lockbox Model
 file: /courses/15-057-systems-optimization-spring-2003/84b864235b5541fbe3c0c3866cf7935a_09lockbox.xls
+file_size: 28160
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

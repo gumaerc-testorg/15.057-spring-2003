@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Practice Final: Linear?'
 file: /courses/15-057-systems-optimization-spring-2003/5ff97b250c38ea604c1a5f3e4d899015_jvprepforfinal2002.pdf
+file_size: 248893
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: Integer Programming II
 file: /courses/15-057-systems-optimization-spring-2003/b41ce03076627cc85e31be024a3b7831_09integerprogramming2print.pdf
+file_size: 681951
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

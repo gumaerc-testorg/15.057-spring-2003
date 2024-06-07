@@ -2,6 +2,7 @@
 content_type: resource
 description: Investment Example
 file: /courses/15-057-systems-optimization-spring-2003/091306a5e609701007e3a78c78973a3c_04investment_example.xls
+file_size: 13824
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

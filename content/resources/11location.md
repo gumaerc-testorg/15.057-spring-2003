@@ -2,6 +2,7 @@
 content_type: resource
 description: Minimize the sum of Rectilinear distances to customers
 file: /courses/15-057-systems-optimization-spring-2003/ca11ffa04666a3b4efadaa2d8ceb1bbf_11location.xls
+file_size: 45056
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

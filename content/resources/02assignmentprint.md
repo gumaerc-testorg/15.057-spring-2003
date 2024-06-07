@@ -2,6 +2,7 @@
 content_type: resource
 description: Network Models
 file: /courses/15-057-systems-optimization-spring-2003/e71935aa27839e25102aeb0c9c3f2991_02assignmentPrint.pdf
+file_size: 1185577
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Parametric Model
 file: /courses/15-057-systems-optimization-spring-2003/50ba2b56b72d04327fdb3321443d60a1_05retail_parametrics.xls
+file_size: 102912
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

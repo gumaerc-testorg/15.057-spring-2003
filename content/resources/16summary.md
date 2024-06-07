@@ -2,6 +2,7 @@
 content_type: resource
 description: Intro to Systems Optimization
 file: /courses/15-057-systems-optimization-spring-2003/21e8fdc5ca76860ec0b5e59f2dfed36a_16summary.pdf
+file_size: 359456
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

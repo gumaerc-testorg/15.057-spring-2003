@@ -2,6 +2,7 @@
 content_type: resource
 description: Mid Term Exam Key
 file: /courses/15-057-systems-optimization-spring-2003/10dc318dfa48782adaf3767d2bbc2a77_midterm2002andkey.pdf
+file_size: 160623
 file_type: application/pdf
 learning_resource_types:
 - Exams

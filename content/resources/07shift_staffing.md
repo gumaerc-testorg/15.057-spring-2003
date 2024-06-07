@@ -2,6 +2,7 @@
 content_type: resource
 description: Staff Scheduling Model
 file: /courses/15-057-systems-optimization-spring-2003/340e7f2f51d754d01f6933b320b82c73_07shift_staffing.mod
+file_size: 5017
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

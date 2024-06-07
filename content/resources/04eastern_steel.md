@@ -2,6 +2,7 @@
 content_type: resource
 description: Eastern Steel Blending Example
 file: /courses/15-057-systems-optimization-spring-2003/091ace0e80ec9bf7ec4c9caf17854c08_04eastern_steel.xls
+file_size: 15360
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

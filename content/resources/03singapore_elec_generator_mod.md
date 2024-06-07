@@ -2,6 +2,7 @@
 content_type: resource
 description: Two models of inventory
 file: /courses/15-057-systems-optimization-spring-2003/080e1d2de8833e9c177b482c5d88f2bf_03singapore_elec_generator_mod.xls
+file_size: 26624
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

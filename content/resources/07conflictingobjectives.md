@@ -2,6 +2,7 @@
 content_type: resource
 description: Modeling Objectives
 file: /courses/15-057-systems-optimization-spring-2003/f20f27b0db6bb7a7ffcb046fe42158d5_07conflictingobjectives.pdf
+file_size: 584464
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

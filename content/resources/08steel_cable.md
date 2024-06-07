@@ -2,6 +2,7 @@
 content_type: resource
 description: Steel Cable Company
 file: /courses/15-057-systems-optimization-spring-2003/e2d06ab40e684f700f987434c9409a15_08steel_cable.xls
+file_size: 14336
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

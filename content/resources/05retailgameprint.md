@@ -2,6 +2,7 @@
 content_type: resource
 description: The Retail Game
 file: /courses/15-057-systems-optimization-spring-2003/2bf13741dc3d670139343284058d5f89_05retailgameprint.pdf
+file_size: 512103
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

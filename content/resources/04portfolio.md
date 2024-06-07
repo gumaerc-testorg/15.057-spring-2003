@@ -2,6 +2,7 @@
 content_type: resource
 description: Fund Ratings
 file: /courses/15-057-systems-optimization-spring-2003/9920986c0abf1ec44e307434bb75c8a1_04portfolio.xls
+file_size: 20480
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

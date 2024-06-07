@@ -2,6 +2,7 @@
 content_type: resource
 description: Non-Linear Optimization
 file: /courses/15-057-systems-optimization-spring-2003/624b50e67c41564a085247dbd43f2ad4_13nonlinear.pdf
+file_size: 1249553
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

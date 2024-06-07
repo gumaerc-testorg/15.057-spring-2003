@@ -2,6 +2,7 @@
 content_type: resource
 description: Final Exam
 file: /courses/15-057-systems-optimization-spring-2003/544e2fcb39cefe997dfe749ea6bdaa8a_practicefinal2002.pdf
+file_size: 142912
 file_type: application/pdf
 learning_resource_types:
 - Exams

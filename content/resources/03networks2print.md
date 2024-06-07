@@ -2,6 +2,7 @@
 content_type: resource
 description: Network Models II
 file: /courses/15-057-systems-optimization-spring-2003/de80d8dc9a6f540e8c210921b559f02d_03networks2print.pdf
+file_size: 798148
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'AutoPower Europe: Assignment Model'
 file: /courses/15-057-systems-optimization-spring-2003/3a19c991e78a027d90540e3695868b31_02assignment_model.xls
+file_size: 21504
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

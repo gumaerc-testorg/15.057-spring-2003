@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-057-systems-optimization-spring-2003/bafb6dbc04e902809f58f828b4b76eb6_07portfolio_soln.xls
+file_size: 27136
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

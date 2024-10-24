@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mid Term Exam
-file: /courses/15-057-systems-optimization-spring-2003/3b6522c7c61f112d1bce5cdfda1dd124_midterm2003andkey.pdf
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/3b6522c7c61f112d1bce5cdfda1dd124_midterm2003andkey.pdf
 file_size: 161715
 file_type: application/pdf
 learning_resource_types:

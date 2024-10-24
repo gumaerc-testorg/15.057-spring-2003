@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: An AMPL Model of the Steco Warehouse case
-file: /courses/15-057-systems-optimization-spring-2003/9b55ec918b7385293d0f226c0a78601d_08steco.mod
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/9b55ec918b7385293d0f226c0a78601d_08steco.mod
 file_size: 1425
 file_type: text/plain
 learning_resource_types:

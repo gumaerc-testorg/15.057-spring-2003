@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Autopower Transportation Model
-file: /courses/15-057-systems-optimization-spring-2003/3f37fc6d240423110334ac0b48e3bb90_02degeneracy.xls
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/3f37fc6d240423110334ac0b48e3bb90_02degeneracy.xls
 file_size: 23040
 file_type: application/msword
 learning_resource_types:

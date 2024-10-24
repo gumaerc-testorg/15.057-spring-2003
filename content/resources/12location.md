@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Location Problems
-file: /courses/15-057-systems-optimization-spring-2003/59024277aaa2be5c34de1c1dddb489b5_12location.pdf
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/59024277aaa2be5c34de1c1dddb489b5_12location.pdf
 file_size: 659954
 file_type: application/pdf
 learning_resource_types:

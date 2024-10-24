@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Singapore Electric Generator Production
-file: /courses/15-057-systems-optimization-spring-2003/c5f6560c9b4c9c584faa463dc995546a_06singapore_scenarios.xls
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/c5f6560c9b4c9c584faa463dc995546a_06singapore_scenarios.xls
 file_size: 37376
 file_type: application/msword
 learning_resource_types:

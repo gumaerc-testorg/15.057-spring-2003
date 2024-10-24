@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Steco data
-file: /courses/15-057-systems-optimization-spring-2003/9ce126b72944143047ee4b8c99d80cf9_08steco_data.mdb
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/9ce126b72944143047ee4b8c99d80cf9_08steco_data.mdb
 file_size: 90112
 file_type: application/octet-stream
 learning_resource_types:

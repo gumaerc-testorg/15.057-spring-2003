@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-057-systems-optimization-spring-2003/1a110e8ede4814124f6b1c146312f986_04portfolio.mdb
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/1a110e8ede4814124f6b1c146312f986_04portfolio.mdb
 file_size: 180224
 file_type: application/octet-stream
 learning_resource_types:

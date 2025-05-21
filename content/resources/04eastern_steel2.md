@@ -2,7 +2,7 @@
 content_type: resource
 description: AMPL Model of the Eastern Steel Example on Page 105 and following of
   Moore et al.
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/a54dd44993572051c53952ae63e1ec55_04eastern_steel.mod
+file: /courses/15-057-systems-optimization-spring-2003/a54dd44993572051c53952ae63e1ec55_04eastern_steel.mod
 file_size: 2692
 file_type: text/plain
 learning_resource_types:

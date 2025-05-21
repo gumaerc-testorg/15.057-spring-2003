@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Shortest Path Model
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/8342f8c7eb02a96d3fee978711f2d2c2_03shortest_path_model.xls
+file: /courses/15-057-systems-optimization-spring-2003/8342f8c7eb02a96d3fee978711f2d2c2_03shortest_path_model.xls
 file_size: 30208
 file_type: application/msword
 learning_resource_types:

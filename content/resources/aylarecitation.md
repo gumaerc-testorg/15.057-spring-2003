@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample Midterm 5 Questions and Review
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/537771f517d11c1c1c70ebf6cea374bd_aylarecitation.pdf
+file: /courses/15-057-systems-optimization-spring-2003/537771f517d11c1c1c70ebf6cea374bd_aylarecitation.pdf
 file_size: 405444
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Western Airlines Hub Selection
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/f093cb38b2862ef95081bdfa00144af6_08westernAir.xls
+file: /courses/15-057-systems-optimization-spring-2003/f093cb38b2862ef95081bdfa00144af6_08westernAir.xls
 file_size: 105984
 file_type: application/msword
 learning_resource_types:

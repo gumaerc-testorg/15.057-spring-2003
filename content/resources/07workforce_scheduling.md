@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Scheduling Postal Workers
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/3013827f47cbabc9946b234ee49d7421_07workforce_scheduling.xls
+file: /courses/15-057-systems-optimization-spring-2003/3013827f47cbabc9946b234ee49d7421_07workforce_scheduling.xls
 file_size: 19456
 file_type: application/msword
 learning_resource_types:

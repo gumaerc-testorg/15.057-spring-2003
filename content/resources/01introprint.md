@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Intro to Systems Optimization
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/c78eceb42734e5a3268e4b2309986ee1_01introprint.pdf
+file: /courses/15-057-systems-optimization-spring-2003/c78eceb42734e5a3268e4b2309986ee1_01introprint.pdf
 file_size: 393865
 file_type: application/pdf
 learning_resource_types:

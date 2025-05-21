@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/e3498c33a4e18d7d68cdd2c8d4fc999c_08integerprogramming1print.pdf
+file: /courses/15-057-systems-optimization-spring-2003/e3498c33a4e18d7d68cdd2c8d4fc999c_08integerprogramming1print.pdf
 file_size: 770384
 file_type: application/pdf
 learning_resource_types:

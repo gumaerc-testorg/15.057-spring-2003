@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Linear Programming
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/5f2387dacc60bc013803f00b8d17edd9_04lpintroprint.pdf
+file: /courses/15-057-systems-optimization-spring-2003/5f2387dacc60bc013803f00b8d17edd9_04lpintroprint.pdf
 file_size: 704098
 file_type: application/pdf
 learning_resource_types:

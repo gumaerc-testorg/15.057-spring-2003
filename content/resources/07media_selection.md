@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Media Selection Model
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/1dea283116ad4530ac66af106a4784e4_07media_selection.xls
+file: /courses/15-057-systems-optimization-spring-2003/1dea283116ad4530ac66af106a4784e4_07media_selection.xls
 file_size: 14336
 file_type: application/msword
 learning_resource_types:

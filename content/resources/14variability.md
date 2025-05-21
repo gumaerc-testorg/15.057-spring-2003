@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Variability
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/7b186c5e5bf674ec13a01a4d21d0da66_14variability.pdf
+file: /courses/15-057-systems-optimization-spring-2003/7b186c5e5bf674ec13a01a4d21d0da66_14variability.pdf
 file_size: 780053
 file_type: application/pdf
 learning_resource_types:

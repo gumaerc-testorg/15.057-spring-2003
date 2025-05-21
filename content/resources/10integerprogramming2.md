@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Integer Programming II
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/fcee86c2a4676cc19807c9aff9e9d450_10integerprogramming2.pdf
+file: /courses/15-057-systems-optimization-spring-2003/fcee86c2a4676cc19807c9aff9e9d450_10integerprogramming2.pdf
 file_size: 616694
 file_type: application/pdf
 learning_resource_types:

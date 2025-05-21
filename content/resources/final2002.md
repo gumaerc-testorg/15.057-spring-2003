@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final Exam
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/57a632361de42fc698bb3e168eb143f8_final2002.pdf
+file: /courses/15-057-systems-optimization-spring-2003/57a632361de42fc698bb3e168eb143f8_final2002.pdf
 file_size: 166103
 file_type: application/pdf
 learning_resource_types:

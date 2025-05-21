@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Staff scheduling
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/f05256929aa45b5b8aaa05266ebd66f2_07staff_scheduling.mdb
+file: /courses/15-057-systems-optimization-spring-2003/f05256929aa45b5b8aaa05266ebd66f2_07staff_scheduling.mdb
 file_size: 409600
 file_type: application/octet-stream
 learning_resource_types:

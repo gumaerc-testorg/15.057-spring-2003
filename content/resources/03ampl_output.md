@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/ecc4adeb32406ac46051c0b565d3b629_03ampl_output.txt
+file: /courses/15-057-systems-optimization-spring-2003/ecc4adeb32406ac46051c0b565d3b629_03ampl_output.txt
 file_size: 1406
 file_type: text/plain
 learning_resource_types:

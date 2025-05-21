@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A transportation model in AMPL.
-file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/8e5fe1c3d885251a24273e87075bd63d_03transportation_model.mod
+file: /courses/15-057-systems-optimization-spring-2003/8e5fe1c3d885251a24273e87075bd63d_03transportation_model.mod
 file_size: 4544
 file_type: text/plain
 learning_resource_types:

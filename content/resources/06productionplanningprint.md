@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Production Planning
-file: /courses/15-057-systems-optimization-spring-2003/7a3c7f0afc208f3d449b511c3ff8bfe2_06productionplanningprint.pdf
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/7a3c7f0afc208f3d449b511c3ff8bfe2_06productionplanningprint.pdf
 file_size: 506827
 file_type: application/pdf
 learning_resource_types:

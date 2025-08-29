@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Retail analysis]'
-file: /courses/15-057-systems-optimization-spring-2003/9546788849a2f7055902ec1edfaec844_05retail_analysis.xls
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/9546788849a2f7055902ec1edfaec844_05retail_analysis.xls
 file_size: 55296
 file_type: application/msword
 learning_resource_types:

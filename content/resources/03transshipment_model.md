@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Minimum Cost Network Flow Problem
-file: /courses/15-057-systems-optimization-spring-2003/0be9a7963b414bd21727f1ec11f94534_03transshipment_model.xls
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/0be9a7963b414bd21727f1ec11f94534_03transshipment_model.xls
 file_size: 23040
 file_type: application/msword
 learning_resource_types:

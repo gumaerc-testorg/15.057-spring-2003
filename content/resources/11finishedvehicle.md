@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Ford Motor Company's Finished Vehicle Distribution System
-file: /courses/15-057-systems-optimization-spring-2003/276ab0170924b89128aae6e66cf0a790_11finishedvehicle.pdf
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/276ab0170924b89128aae6e66cf0a790_11finishedvehicle.pdf
 file_size: 518539
 file_type: application/pdf
 learning_resource_types:

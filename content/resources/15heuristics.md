@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-057-systems-optimization-spring-2003/52f5c751a872fd71c393fb1378315099_15heuristics.pdf
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/52f5c751a872fd71c393fb1378315099_15heuristics.pdf
 file_size: 711371
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Steco's Warehouse Location Model
-file: /courses/15-057-systems-optimization-spring-2003/d1abef62e5d321fbc5e037d0b180095f_08steco.xls
+file: /ol-ocw-studio-app/courses/15-057-systems-optimization-spring-2003/d1abef62e5d321fbc5e037d0b180095f_08steco.xls
 file_size: 19456
 file_type: application/msword
 learning_resource_types:
